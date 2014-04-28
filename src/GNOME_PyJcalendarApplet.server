@@ -1,0 +1,28 @@
+<oaf_info>
+
+<oaf_server iid="OAFIID:GNOME_PyJcalendarApplet_Factory"
+            type="exe" location="/usr/share/jalali-calendar/jcalendar.py">
+
+        <oaf_attribute name="repo_ids" type="stringv">
+                <item value="IDL:Bonobo/GenericFactory:1.0"/>
+                <item value="IDL:Bonobo/Unknown:1.0"/>
+        </oaf_attribute>
+        <oaf_attribute name="name" type="string" value="Jalali calendar"/>
+        <oaf_attribute name="description" type="string" value="Jalali calendar"/>
+</oaf_server>
+
+<oaf_server iid="OAFIID:GNOME_PyJcalendarApplet"
+            type="factory" location="OAFIID:GNOME_PyJcalendarApplet_Factory">
+
+        <oaf_attribute name="repo_ids" type="stringv">
+                <item value="IDL:GNOME/Vertigo/PanelAppletShell:1.0"/>
+                <item value="IDL:Bonobo/Control:1.0"/>
+                <item value="IDL:Bonobo/Unknown:1.0"/>
+        </oaf_attribute>
+        <oaf_attribute name="name" type="string" value="Jalali calendar"/>
+        <oaf_attribute name="description" type="string" value="Jalali calendar"/>
+        <oaf_attribute name="panel:category" type="string" value="Utilities"/>
+        <oaf_attribute name="panel:icon" type="string" value="/usr/share/jalali-calendar/jcal.png"/>
+</oaf_server>
+
+</oaf_info>

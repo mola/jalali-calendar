@@ -1,0 +1,42 @@
+Wednesday, April 15 2009 Mola Pahnadayan  <mola.mp@gmail.com>
+	* Calendar widget Code clean 
+
+Wednesday, April 15 2009 Hassan ShafieeMonfared <hassan.shafiee@gmail.com>
+	* Update 1388 event
+	
+Tuesday, February 24 2009 Mola Pahnadayan  <mola.mp@gmail.com>
+	* Update to 1.6.7
+	* Fix makeinstall patch by Hedayat Vatankhah <hedayat@grad.com>
+	* Fix header of file patch by Hedayat Vatankhah <hedayat@grad.com>
+
+Tuesday, February 24 2009 Mola Pahnadayan  <mola.mp@gmail.com>
+	* Fix week number
+	* Add 1388 holiday and day's name
+	* Add milady month name 
+	
+Friday, March 28 2008 Mola Pahnadayan  <mola.mp@gmail.com>
+	* Add 1387 holiday
+	* Add 1387 day's name
+	* Correct tooltip
+
+Friday, May 25 2007 Mola Pahnadayan  <mola.mp@gmail.com>
+	* currect some holiday
+	* Fix bug to work with debian etch
+	* change to /usr/share/jalali-calendar directory <alan@technotux.com>
+
+Tuesday, May 01 2007  Mola Pahnadayan  <mola.mp@gmail.com>
+
+	* Release 1.6.2
+	* Add the license into all of source files
+	* remove incorrect holiday
+
+Sunday, March 31 2007  Mola Pahnadayan  <mola.mp@gmail.com>
+
+	* Release 1.6.1
+	* Add prefernces dialog
+	* (widget calendar) Hight detect
+
+
+Sunday, March 04 2007  Mola Pahnadayan  <mola.mp@gmail.com>
+
+	* First release
